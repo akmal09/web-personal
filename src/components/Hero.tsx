@@ -17,7 +17,7 @@ const Hero = () => {
           >
             <Image
               src="/assets/foto_akmal.png"
-              alt="Akmal's profile picture"
+              alt="Akmal&apos;s profile picture"
               fill
               className="object-cover"
               priority
@@ -32,7 +32,7 @@ const Hero = () => {
             className="max-w-2xl text-center md:text-left"
           >
             <h1 className="text-4xl md:text-5xl font-bold text-gray-800 dark:text-white mb-4">
-              Hi, I'm Akmal
+              Hi, I&apos;m Akmal
             </h1>
             <h2 className="text-2xl md:text-3xl text-blue-600 dark:text-blue-400 mb-6">
               Software Developer

@@ -28,7 +28,7 @@ const About = () => {
             >
               <Image
                 src="/assets/foto_akmal.png"
-                alt="Akmal's profile picture"
+                alt="Akmal&apos;s profile picture"
                 fill
                 sizes="(max-width: 768px) 100vw, 50vw"
                 className="object-cover rounded-full shadow-lg hover:scale-105 transition-transform duration-300"
@@ -45,7 +45,7 @@ const About = () => {
               className="space-y-4"
             >
               <p className="text-lg text-gray-600 dark:text-gray-300">
-                Hello! I'm Akmal, a Software Developer/Engineer with expertise in designing and implementing robust web applications using MVC design patterns. 
+                Hello! I&apos;m Akmal, a Software Developer/Engineer with expertise in designing and implementing robust web applications using MVC design patterns. 
 Proficient in Backend development with Spring Boot (Java), AdonisJS (TypeScript), and Express (Node.js), and skilled in database 
 technologies like OracleSQL, PostgreSQL, and MySQL. Experienced in maintaining and creating CI/CD pipelines to streamline 
 deployment processes. Versatile in full-stack development using Laravel (PHP) and frontend tools such as ReactJS and jQuery, 
