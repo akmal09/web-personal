@@ -1,0 +1,1 @@
+Remove-Item -Recurse -Force node_modules, .next, package-lock.json
